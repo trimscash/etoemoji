@@ -1,5 +1,8 @@
 # etoemoji
 <h1>https://trimscash.github.io/etoemoji/index.html</h1>
+
+you can draw with emoji
+
 これは絵文字により絵が描けるやつ
 これも一晩で作ったからコードはごみ. <br>
 ⬜️⬜️⬜️⬜️⬜️⬛️⬛️⬛️⬛️⬛️⬜️⬜️⬛️⬛️⬛️⬜️<br>
