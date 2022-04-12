@@ -25,3 +25,6 @@ you can draw with emoji
 https://trimscash.github.io/etoemoji/sakuhin/index.html
 <br>
 <br>
+# unko
+画面クリアを実装するのは一瞬なのにリロードさせることで実現していてうんこ
+まあめんどいからなおさないけど
